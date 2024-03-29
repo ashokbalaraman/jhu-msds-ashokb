@@ -20,5 +20,5 @@ This research contributes to the cybersecurity field by demonstrating the effica
 Ashok Balaraman brings over 25 years of expertise in data management, evolving from an MIS Report Executive to a Principal Architect at Intuitive Surgical, Inc. His journey through Database Architecture, Data Warehouse Architecture, and Big Data Analytics, fueled by a passion for data, led him to pursue an MS in Data Science from Johns Hopkins University, atop of previously earned M.Sc in Mathematics and Statistics. 
 Ashok's proficiency shines in Data, Application, and Cloud Architecture, managing complex systems with ease. His diverse experience, highlighted by a 12-year stint as a technology consultant for Fortune 100 giants like Meta, Walmart, and Disney, has honed his adaptability and technical prowess across various sectors. Motivated by a deep-seated interest in Artificial Intelligence and its potential in cybersecurity, Ashok's current research focuses on harnessing AI to enhance cyber defense mechanisms, reflecting his dedication to innovation in the cybersecurity domain.
 
-## Co-Presenters
+## Co-Authors
 **Amir Kashif Saeed, Benjamin Johnson, Dr. Benjamin M Rodriguez**
