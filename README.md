@@ -15,6 +15,7 @@ This research contributes to the cybersecurity field by demonstrating the effica
 
 ## Presenter
 **Ashok Balaraman**
+
 **Johns Hopkins University**
 
 Ashok Balaraman brings over 25 years of expertise in data management, evolving from an MIS Report Executive to a Principal Architect at Intuitive Surgical, Inc. His journey through Database Architecture, Data Warehouse Architecture, and Big Data Analytics, fueled by a passion for data, led him to pursue an MS in Data Science from Johns Hopkins University, atop of previously earned M.Sc in Mathematics and Statistics. 
